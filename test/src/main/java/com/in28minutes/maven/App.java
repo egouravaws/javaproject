@@ -12,6 +12,7 @@ public class App
     }
 
 	public int calculateSomething() {
+		System.out.println( "Hello World  Test Test Test" );
 		return 0;
 	}
 }
