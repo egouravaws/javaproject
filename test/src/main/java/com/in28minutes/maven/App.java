@@ -12,6 +12,7 @@ public class App
     }
 
 	public int calculateSomething() {
+		System.out.println( "calculateSomething()" );
 		return 0;
 	}
 }
